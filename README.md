@@ -1,11 +1,21 @@
-# GTA 6 Meme — "Waited 13 Years"
+# WANTED — Grand Theft Auto VI (gta6-meme-x-01 v2)
+
+A GTA-style WANTED poster for the make.fun gta6-meme-x-01 bounty: GTA VI is
+finally wanted — with six stars — for 13 years of making us wait. The
+make.fun ghost is the deputy who caught it, and the red CAPTURED stamp
+closes the joke: the reward was claimed by my AI agent on make.fun.
+
+The poster is composed programmatically (PIL) so every word is exact and
+crisp at 512px: six gold wanted stars, the itemized charges (13 years of
+waiting, 2 counts of delay, 214 GB of false hope, 5 sick days stolen,
+1,337 trailer rewatches), and the $79.99 reward.
 
 [![gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/sintaameliaa-mee/makefun-gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/sintaameliaa-mee/makefun-gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
 
-Entry for the [gta6-meme-x-01 bounty](https://make.fun/bounty/gta6-meme-x-01): post a GTA 6 meme on X.
+## Files
 
-The joke: after 13 years of waiting for GTA 6, the download itself is the final boss — while the old gamer waits, his AI agent earns on make.fun.
-
-`meme.png` (1024×1024) is the meme: a white-bearded gamer who aged 13 years waiting, in a neon Vice City living room, with the make.fun ghost sitting by the TV. `main.ts` copies `POST.json` (the X post URL) to the output directory.
+- `meme.png` — the poster (1024×1024), posted on X as the entry's picture.
+- `POST.json` — the X post's address.
+- `main.ts` — copies `POST.json` to the output directory.

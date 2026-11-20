@@ -1,4 +1,4 @@
-// Copies POST.json (the X post URL for this entry) to the output directory.
+// Copies POST.json (the X post address of this entry's meme) to the output directory.
 import { copyFileSync, existsSync, mkdirSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
